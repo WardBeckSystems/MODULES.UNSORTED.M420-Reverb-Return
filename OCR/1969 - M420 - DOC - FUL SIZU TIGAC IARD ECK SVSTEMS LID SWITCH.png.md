@@ -1,5 +1,5 @@
 # 1969 - M420 - DOC - FUL SIZU TIGAC IARD ECK SVSTEMS LID SWITCH.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1969 (found in this ad: "SEPT 69")
@@ -84,7 +84,7 @@ B
 
 ```json
 {
- "file": "Modules/UNSORTED/M420/1969 - M420 - DOC - FUL SIZU TIGAC IARD ECK SVSTEMS LID SWITCH.png",
+ "file": "Modules/UNSORTED/M420/MECHANICAL/1969 - M420 - DOC - FUL SIZU TIGAC IARD ECK SVSTEMS LID SWITCH.png",
  "sha256": "7e7b8bcb43c32a8a019893dc6bf308917f28a430728e377d3a0a15c65de62587",
  "kind": "doc",
  "models": [

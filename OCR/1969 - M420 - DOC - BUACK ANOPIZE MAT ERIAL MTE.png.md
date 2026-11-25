@@ -1,5 +1,5 @@
 # 1969 - M420 - DOC - BUACK ANOPIZE MAT ERIAL MTE.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1969 (found in this ad: "DATE SEpT 69")
@@ -56,7 +56,7 @@ FINISH WANO BECK SYSTEMS LTD OJG I2ogr/7 DATE SEpT 69 BuAck Anopize MAT ERIAL MT
 
 ```json
 {
- "file": "Modules/UNSORTED/M420/1969 - M420 - DOC - BUACK ANOPIZE MAT ERIAL MTE.png",
+ "file": "Modules/UNSORTED/M420/MANUALS/1969 - M420 - DOC - BUACK ANOPIZE MAT ERIAL MTE.png",
  "sha256": "9b6277d070db06435d04879ce83bf3638264496c806982e34f40b63311106796",
  "kind": "doc",
  "models": [

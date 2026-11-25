@@ -1,5 +1,5 @@
 # 1969 - M420 - wbsps - module - m420 reverb return_small.jpg
-Wiki page: [M420](../../../PAGES/M420.md)
+Wiki page: [M420](../../../../PAGES/M420.md)
 
 
 - **Year:** 1969 (module estimate (labelled))
@@ -14,7 +14,7 @@ Wiki page: [M420](../../../PAGES/M420.md)
 
 ```json
 {
- "file": "Modules/UNSORTED/M420/1969 - M420 - wbsps - module - m420 reverb return_small.jpg",
+ "file": "Modules/UNSORTED/M420/PHOTOS/1969 - M420 - wbsps - module - m420 reverb return_small.jpg",
  "sha256": "0dfd1ef8ecac03779a71b8cd282d8de596b55825546a8e60bfa5d3a731579ac5",
  "kind": "module",
  "models": [
