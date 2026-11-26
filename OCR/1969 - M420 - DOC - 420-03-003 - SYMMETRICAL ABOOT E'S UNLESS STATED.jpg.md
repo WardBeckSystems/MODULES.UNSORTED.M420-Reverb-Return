@@ -30,7 +30,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 74 in 65 lines: Ssue · 44 · 2-SGUnC · 3.36 · Ha €s Nal} 40FF · DJG · 0c769 · 1+625 · 2HOLES · DIA · NTS · 1.435
 - **Title block:** (198, 13)–(375, 58) mm: FiNSH · UNARD · BECK SVSTEMS · DRN DJG · 120 Ggrit · DATE SEPT 69 · BLACK · ANoDIze · SwITCHI · MTG · MATERIAL · CHKDE · M 420 · 76 ALoM · SCALEF · FLL · FFRACT 1/64 · DEC · PLACES GIVE · ANGLES · 420
 
-Every curve, box, word and wire group: [1969 - M420 - DOC - 420-03-003 - SYMMETRICAL ABOOT E'S UNLESS STATED (traced).json](../MECHANICAL/1969%20-%20M420%20-%20DOC%20-%20420-03-003%20-%20SYMMETRICAL%20ABOOT%20E%27S%20UNLESS%20STATED%20(traced).json) (the CAD file: `1969 - M420 - DOC - 420-03-003 - SYMMETRICAL ABOOT E'S UNLESS STATED (traced).dxf`).
+Every curve, box, word and wire group: [1969 - M420 - DOC - 420-03-003 - SYMMETRICAL ABOOT E'S UNLESS STATED (traced).json](../MECHANICAL/1969%20-%20M420%20-%20DOC%20-%20420-03-003%20-%20SYMMETRICAL%20ABOOT%20E%27S%20UNLESS%20STATED%20%28traced%29.json) (the CAD file: `1969 - M420 - DOC - 420-03-003 - SYMMETRICAL ABOOT E'S UNLESS STATED (traced).dxf`).
 
 ## Full text
 

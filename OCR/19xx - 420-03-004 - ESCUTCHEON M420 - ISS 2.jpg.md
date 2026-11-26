@@ -35,7 +35,7 @@ Wiki page: [M420](../../../../PAGES/M420.md)
 - **Words (OCR):** 78 in 52 lines: 332 · c'BORE 32 DIA · -1.125 = · 3--45 · 1625 · 32 32 · JN ZPLACES · 25 C'BORE 8 DIA x83 DEEP · ON · UNDERSIDE · 2 HOLES 64 DIA · 3/6 DEEP
 - **Title block:** (189, 19)–(398, 62) mm: FinIS · DRN DJG · beCK SYSTEMS LTd; · NoTE 2 · DATE · SEPT 69 · CHKD · MATERAL · 0 0 · ESCUTCHEON · AALUM · SCALE FULL SIZE · M420 · TOLS FRACE 1/64 DEC PLACES GIVEN ANGLES
 
-Every curve, box, word and wire group: [19xx - 420-03-004 - ESCUTCHEON M420 - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20420-03-004%20-%20ESCUTCHEON%20M420%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 420-03-004 - ESCUTCHEON M420 - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 420-03-004 - ESCUTCHEON M420 - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20420-03-004%20-%20ESCUTCHEON%20M420%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 420-03-004 - ESCUTCHEON M420 - ISS 2 (traced).dxf`).
 
 ## Full text
 

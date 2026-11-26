@@ -28,7 +28,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 79 in 52 lines: 332 · c'BORE 32 DIA · -1.125 = · 1625 · 32 · JN ZPLACES · 32 · 25 C'BORE 8 DIA x 83 DEEP · ON · UNDERSIDE · 2 HOLES 64 DIA · 3/6 DEEP
 - **Title block:** (189, 19)–(398, 62) mm: FinIS · DRN DJG · beCK SYSTEMS LTd; · NoTE 2 · DATE · SEPT 69 · CHKD · MATERAL · 0 0 · ESCUTCHEON · AALUM · SCALE FULL SIZE · M420
 
-Every curve, box, word and wire group: [1969 - M420 - DOC - 420-04-001 - GIVEN ANGLES MIN BEND RAD (traced).json](../MECHANICAL/1969%20-%20M420%20-%20DOC%20-%20420-04-001%20-%20GIVEN%20ANGLES%20MIN%20BEND%20RAD%20(traced).json) (the CAD file: `1969 - M420 - DOC - 420-04-001 - GIVEN ANGLES MIN BEND RAD (traced).dxf`).
+Every curve, box, word and wire group: [1969 - M420 - DOC - 420-04-001 - GIVEN ANGLES MIN BEND RAD (traced).json](../MECHANICAL/1969%20-%20M420%20-%20DOC%20-%20420-04-001%20-%20GIVEN%20ANGLES%20MIN%20BEND%20RAD%20%28traced%29.json) (the CAD file: `1969 - M420 - DOC - 420-04-001 - GIVEN ANGLES MIN BEND RAD (traced).dxf`).
 
 ## Full text
 

@@ -39,7 +39,7 @@ Wiki page: [M420](../../../../PAGES/M420.md)
 - **Words (OCR):** 76 in 65 lines: Ssue · 44 · 2-SGUnC · 3.36 · Ha €s Nal} 40FF · DJG oct 69 · 1+625 · 2HOLES · DIA · NTS · 1.435 · 1-05 .80
 - **Title block:** (198, 13)–(375, 58) mm: FiNSH · INARD · BECK SVSTEMS · DRN DJG · 120 Grit · DATE SEPT 69 · BLACK · ANoDIze · SwITCHI · MTG · An · MATERIAL · CHKD · M 420 · 76 ALoM · SCALEF · FLL · FRACT 1/64 TO · DEC · PLACES GIVE · ANGLES 
 
-Every curve, box, word and wire group: [1969 - 420-03-003 - SWITCH MTG BRKT M 420 - DRN DJG - ISS 2 (traced).json](../MECHANICAL/1969%20-%20420-03-003%20-%20SWITCH%20MTG%20BRKT%20M%20420%20-%20DRN%20DJG%20-%20ISS%202%20(traced).json) (the CAD file: `1969 - 420-03-003 - SWITCH MTG BRKT M 420 - DRN DJG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1969 - 420-03-003 - SWITCH MTG BRKT M 420 - DRN DJG - ISS 2 (traced).json](../MECHANICAL/1969%20-%20420-03-003%20-%20SWITCH%20MTG%20BRKT%20M%20420%20-%20DRN%20DJG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1969 - 420-03-003 - SWITCH MTG BRKT M 420 - DRN DJG - ISS 2 (traced).dxf`).
 
 ## Full text
 

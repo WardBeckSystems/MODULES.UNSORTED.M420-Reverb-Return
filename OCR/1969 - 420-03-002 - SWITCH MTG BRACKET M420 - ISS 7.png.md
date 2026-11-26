@@ -38,7 +38,7 @@ Mechanical drawing of an M420 switch mounting bracket, title block at bottom rig
 - **Words (OCR):** 50 in 40 lines: i8 · 318 · (TYR) · 4567 DIA · Dt · 32 · 035 RAD: · (TYp) · miq · 2 HOLES · 12 5 DIA · 2 HoLes Dia
 - **Title block:** (165, 7)–(348, 56) mm: CKD DRN DJG · FiniSh · WARD ECK · MOD · 120 Grit · pF PATE SEPT 69 CLEAR · 03 · ALoDIN E · SwItch MtG · 4052 · CHKD · MATERIAL · T6 · ALOM · SCALE · FuL SizE · 420
 
-Every curve, box, word and wire group: [1969 - 420-03-002 - SWITCH MTG BRACKET M420 - ISS 7 (traced).json](../MECHANICAL/1969%20-%20420-03-002%20-%20SWITCH%20MTG%20BRACKET%20M420%20-%20ISS%207%20(traced).json) (the CAD file: `1969 - 420-03-002 - SWITCH MTG BRACKET M420 - ISS 7 (traced).dxf`).
+Every curve, box, word and wire group: [1969 - 420-03-002 - SWITCH MTG BRACKET M420 - ISS 7 (traced).json](../MECHANICAL/1969%20-%20420-03-002%20-%20SWITCH%20MTG%20BRACKET%20M420%20-%20ISS%207%20%28traced%29.json) (the CAD file: `1969 - 420-03-002 - SWITCH MTG BRACKET M420 - ISS 7 (traced).dxf`).
 
 ## Full text
 
