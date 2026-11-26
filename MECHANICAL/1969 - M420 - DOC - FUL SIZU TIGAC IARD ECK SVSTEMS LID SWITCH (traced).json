@@ -1,0 +1,132 @@
+{
+ "drawing": "Modules/UNSORTED/M420/MECHANICAL/1969 - M420 - DOC - FUL SIZU TIGAC IARD ECK SVSTEMS LID SWITCH.png",
+ "version": 1,
+ "trace": "_traces/7e7b8bcb43c32a8a.svg",
+ "sheet": {
+  "number": "",
+  "title": "Ful Sizu Tigac Iard Eck Svstems Lid Switch",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.2, 431.5, 298.6],
+ "outlines": {
+  "line": {"rings": 311, "straight": {"n": 4769, "mm": 7438.1}, "curved": {"n": 698, "mm": 902.5}},
+  "text": {"rings": 303, "straight": {"n": 2543, "mm": 2813.8}, "curved": {"n": 694, "mm": 1027.8}},
+  "tb": {"rings": 125, "straight": {"n": 996, "mm": 916.9}, "curved": {"n": 151, "mm": 177.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 6083, "straight": {"n": 6288, "mm": 4718.6}, "curved": {"n": 17, "mm": 25.9}},
+   "text": {"paths": 1853, "straight": {"n": 2492, "mm": 2091.7}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 550, "straight": {"n": 590, "mm": 650.8}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 65,
+  "orientation": {"horizontal": {"n": 2526, "mm": 2880.2}, "vertical": {"n": 2349, "mm": 1784.7}, "diagonal": {"n": 4495, "mm": 2796.2}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [113.8, 169.2], "r": 6.9, "kind": "arc", "span": 81, "from": ["centre line"], "start": 173},
+  {"c": [187.8, 96.6], "r": 4.6, "kind": "arc", "span": 94, "from": ["centre line"], "start": 5},
+  {"c": [359.9, 84.2], "r": 1.4, "kind": "arc", "span": 114, "from": ["centre line"], "start": 322},
+  {"c": [184.1, 185.2], "r": 1.2, "kind": "arc", "span": 147, "from": ["centre line"], "start": 107},
+  {"c": [135.8, 169.1], "r": 1.0, "kind": "arc", "span": 184, "from": ["centre line"], "start": 118}
+ ],
+ "boxes": [
+  {"mm": [159.8, 40.6, 172.7, 48.8], "w": 13.0, "h": 8.2, "from": "ring", "words": ["MOD"]},
+  {"mm": [146.8, 40.4, 159.6, 48.6], "w": 12.7, "h": 8.2, "from": "ring"},
+  {"mm": [160.0, 33.5, 172.9, 39.3], "w": 13.0, "h": 5.8, "from": "ring", "words": ["003"]},
+  {"mm": [146.8, 33.2, 159.6, 39.1], "w": 12.8, "h": 5.8, "from": "ring"},
+  {"mm": [147.0, 27.4, 159.8, 32.8], "w": 12.7, "h": 5.4, "from": "ring"},
+  {"mm": [173.4, 22.2, 186.1, 27.5], "w": 12.7, "h": 5.3, "from": "ring", "in_title_block": true},
+  {"mm": [147.0, 21.8, 159.8, 27.2], "w": 12.7, "h": 5.4, "from": "ring"},
+  {"mm": [160.2, 22.0, 172.9, 27.2], "w": 12.7, "h": 5.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 51,
+  "lines": [
+   {"mm": [109.5, 223.2, 116.6, 233.6], "text": "i8"},
+   {"mm": [86.1, 211.2, 96.9, 215.5], "text": "318"},
+   {"mm": [85.5, 205.8, 99.5, 211.3], "text": "(TYp)"},
+   {"mm": [160.4, 204.2, 189.1, 210.7], "text": "4567 DIA"},
+   {"mm": [301.4, 200.8, 322.6, 205.6], "text": "0J ) )"},
+   {"mm": [331.2, 200.8, 339.2, 206.3], "text": "Dt"},
+   {"mm": [114.4, 193.4, 121.3, 203.8], "text": "32"},
+   {"mm": [35.6, 187.0, 62.6, 193.4], "text": "035 RAD:"},
+   {"mm": [46.2, 183.1, 61.7, 188.6], "text": "(TYp)"},
+   {"mm": [73.2, 157.6, 82.9, 161.9], "text": "miq"},
+   {"mm": [90.2, 114.6, 117.2, 121.1], "text": "2 HOLES"},
+   {"mm": [122.2, 115.5, 146.6, 121.7], "text": "12 5 DIA"},
+   {"mm": [228.0, 112.9, 267.9, 118.4], "text": "2 HoLes Dia"},
+   {"mm": [296.2, 88.7, 320.0, 95.2], "text": "NoTes"},
+   {"mm": [330.3, 80.7, 354.1, 87.2], "text": "BURRS"},
+   {"mm": [364.9, 81.2, 388.2, 87.7], "text": "SHARP"},
+   {"mm": [390.3, 81.8, 414.1, 88.3], "text": "EDGES"},
+   {"mm": [292.5, 79.9, 326.4, 86.8], "text": "EREMOVE"},
+   {"mm": [173.8, 40.4, 214.6, 48.5], "text": "CKD DRN DJG"},
+   {"mm": [239.4, 44.3, 254.5, 49.8], "text": "FnSH"},
+   {"mm": [319.3, 40.4, 362.3, 50.2], "text": "WARD ECK"},
+   {"mm": [365.7, 41.0, 394.9, 50.6], "text": "SVSTEMS"},
+   {"mm": [398.1, 41.7, 412.2, 51.3], "text": "LTd:"},
+   {"mm": [160.0, 42.7, 170.8, 48.3], "text": "MOD"},
+   {"mm": [245.7, 37.6, 277.4, 44.0], "text": "120 Grit"},
+   {"mm": [172.7, 31.5, 232.3, 41.4], "text": "pF PATE SEPT 69"},
+   {"mm": [160.0, 34.5, 171.9, 39.3], "text": "003"},
+   {"mm": [246.6, 31.1, 269.9, 37.6], "text": "CLEAR"},
+   {"mm": [271.6, 31.5, 300.1, 38.0], "text": "ALoDIN E"},
+   {"mm": [323.0, 29.1, 373.5, 37.3], "text": "Switch MtG"},
+   {"mm": [377.6, 30.0, 415.2, 38.4], "text": "BRACKET"},
+   {"mm": [160.0, 27.0, 172.5, 32.5], "text": "4052"},
+   {"mm": [187.6, 22.7, 200.6, 28.2], "text": "CHKD"},
+   {"mm": [239.4, 25.9, 262.1, 30.7], "text": "MATERIAL"},
+   {"mm": [245.0, 16.0, 274.4, 23.4], "text": "T6 ALON"},
+   {"mm": [339.0, 19.6, 365.3, 26.6], "text": "M420"},
+   {"mm": [187.0, 13.4, 200.6, 18.9], "text": "SCALE"},
+   {"mm": [202.5, 12.5, 233.8, 19.7], "text": "FuLl Size"},
+   {"mm": [335.1, 4.5, 354.1, 11.5], "text": "420"},
+   {"mm": [358.4, 5.2, 375.7, 12.1], "text": "-03"},
+   {"mm": [381.7, 5.6, 409.3, 12.6], "text": "002 JSS"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [165.2, 7.4, 348.4, 56.3],
+  "from": "title-block words (training set)",
+  "text": [
+   "CKD DRN DJG",
+   "FnSH",
+   "WARD ECK",
+   "MOD",
+   "120 Grit",
+   "pF PATE SEPT 69",
+   "003",
+   "CLEAR",
+   "ALoDIN E",
+   "Switch MtG",
+   "4052",
+   "CHKD",
+   "MATERIAL",
+   "T6 ALON",
+   "SCALE",
+   "FuLl Size",
+   "420"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 10–299 mm up",
+  "- **Outlines:** line 311 rings, 4,769 straight (7,438 mm) / 698 curved (902 mm); text 303 rings, 2,543 straight (2,814 mm) / 694 curved (1,028 mm); tb 125 rings, 996 straight (917 mm) / 151 curved (178 mm)",
+  "- **Centre lines:** 8,486 paths (65 closed); straight 7,461 mm, curved 25.9 mm; horizontal 2,880 mm, vertical 1,785 mm, diagonal 2,796 mm",
+  "- **Circles and arcs:** 0 circles, 5 arcs",
+  "- **Closed boxes:** 8 (1 in the title block); named: MOD; 003",
+  "- **Words (OCR):** 51 in 41 lines: i8 · 318 · (TYp) · 4567 DIA · 0J ) ) · Dt · 32 · 035 RAD: · (TYp) · miq · 2 HOLES · 12 5 DIA",
+  "- **Title block:** (165, 7)–(348, 56) mm: CKD DRN DJG · FnSH · WARD ECK · MOD · 120 Grit · pF PATE SEPT 69 · 003 · CLEAR · ALoDIN E · Switch MtG · 4052 · CHKD · MATERIAL · T6 ALON · SCALE · FuLl Size · 420"
+ ]
+}
