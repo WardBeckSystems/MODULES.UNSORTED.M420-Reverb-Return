@@ -35,7 +35,7 @@ S
 
 ```json
 {
- "file": "Modules/UNSORTED/M420/PHOTOS/1969 - M420 - wbsps - module - m420 reverb return.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M420/PHOTOS/1969 - M420 - wbsps - module - m420 reverb return.jpg",
  "sha256": "868bd6c86a48818dbb499580c5cef46968a01b90212e4d9de58d1c33e474cb9f",
  "kind": "module",
  "models": [

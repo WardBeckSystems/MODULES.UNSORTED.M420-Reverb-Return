@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M420",
- "repo": "MODULES.UNSORTED.M420-Reverb-Return",
+ "repo": "MODULES.INPUT-PRE-AMPS.M420-Reverb-Return",
  "title": "Reverb Return",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
