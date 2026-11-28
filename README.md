@@ -31,6 +31,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1969 - 420-03-002 - SWITCH MTG BRACKET M420 - ISS 7.png`, `1969 - 420-03-003 - SWITCH MTG BRKT M 420 - DRN DJG - ISS 2.jpg`, `1969 - 420-03-005 - MTG. BRKT. M420 - ISS 1.png`, `19xx - 420-03-004 - ESCUTCHEON M420 - ISS 2.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M420.stl`](MECHANICAL/M420.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M420)
+
+- **Size:** 50.52 × 223.46 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 5 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M420 - front panel.svg`)
+- the drawn panel is 0.29 wide to high, the size 0.23: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M420.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
