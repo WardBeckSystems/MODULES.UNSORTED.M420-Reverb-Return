@@ -1,5 +1,5 @@
 # 1969 - M420 - wbsps - module - m420 reverb return.jpg
-Wiki page: [M420](../../../../PAGES/M420.md)
+Wiki page: [M420](../)
 
 
 - **Year:** 1969 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 19xx - 420-03-004 - ESCUTCHEON M420 - ISS 2.jpg
-Wiki page: [M420](../../../../PAGES/M420.md)
+Wiki page: [M420](../)
 
 
 - **Year:** unknown (title block (read by eye))

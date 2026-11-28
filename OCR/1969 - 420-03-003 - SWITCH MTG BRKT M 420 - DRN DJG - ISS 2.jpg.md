@@ -1,5 +1,5 @@
 # 1969 - 420-03-003 - SWITCH MTG BRKT M 420 - DRN DJG - ISS 2.jpg
-Wiki page: [M420](../../../../PAGES/M420.md)
+Wiki page: [M420](../)
 
 
 - **Year:** 1969 (title block date)

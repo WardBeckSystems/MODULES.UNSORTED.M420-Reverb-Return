@@ -1,5 +1,5 @@
 # 1969 - 420-03-002 - SWITCH MTG BRACKET M420 - ISS 7.png
-Wiki page: [M420](../../../../PAGES/M420.md)
+Wiki page: [M420](../)
 
 
 - **Year:** 1969 (title block date)

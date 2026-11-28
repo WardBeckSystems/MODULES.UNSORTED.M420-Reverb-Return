@@ -1,6 +1,6 @@
 # M420 Reverb Return · Input Pre Amps
 
-Ward-Beck Systems M420, 1969|2. Wiki page: [M420 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M420.html)
+Ward-Beck Systems M420, 1969|2. Wiki page: [M420 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M420-Reverb-Return/)
 
 | Folder | What is in it | Files |
 |---|---|---|
